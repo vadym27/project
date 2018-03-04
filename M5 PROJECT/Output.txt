@@ -1,0 +1,16 @@
+Has perdut!
+$60650
+Punts del teu equip: 5
+Punts del altre equip: 16
+Has ganat!
+$52000
+Punts del teu equip: 16
+Punts del altre equip: 0
+Has perdut!
+$55650
+Punts del teu equip: 5
+Punts del altre equip: 16
+-Empat-
+$77750
+Punts del teu equip: 15
+Punts del altre equip: 15
